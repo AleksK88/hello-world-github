@@ -1,0 +1,23 @@
+Version 1.0.0.637
+22 July 2017
+Driver Packs 17073
+Fixed bug preventing system menu from getting translated.
+Improved Welcome screen translated layout.
+Updated all language files to include all the new strings.
+Added "Create a USB Drive" wizard. See the manual for details.
+
+Version 0.9.1.596
+8 July 2017
+Driver Packs 17071
+Fixed fatal startup error on Windows XP
+
+Version 0.9.0.593
+1 July 2017
+Driver Packs 17064
+Added more options to the Tools menu.
+Added Network Drivers to the Welcome dialog.
+Added Network Only option to Updates dialog.
+Added Welcome screen to languages.
+Fixed a few issues in the updates menu items.
+Fixed bug preventing second torrent from seeding.
+New Reference Manual available in the docs directory.
